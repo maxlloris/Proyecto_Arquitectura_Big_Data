@@ -1,4 +1,4 @@
-# **Big Data Architecture** - Práctica
+# **Big Data Architecture** - Proyecto
 
 
 
